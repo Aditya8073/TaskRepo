@@ -1,0 +1,245 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+30-04-2025	18:23:16.967	 INFO	 40632	 33152	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:23:16.971	 INFO	 40632	 33152	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:23:16.972	 INFO	 40632	 36396	LateInitialization	"Intialization..."
+30-04-2025	18:23:16.974	 INFO	 40632	 36396	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:23:16.975	 INFO	 40632	 36396	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:23:16.976	 INFO	 40632	 36396	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:23:16.977	 INFO	 40632	 36396	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:23:16.979	 INFO	 40632	 36396	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:23:20.001	ERROR	 40632	 36396	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+30-04-2025	18:23:20.002	 INFO	 40632	 36396	LateInitialization	"Exe = C:\Users\aditya.verma\AppData\Local\Programs\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 29875500
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+30-04-2025	18:23:20.004	 INFO	 40632	 36396	LateInitialization	"Intialization finished"
+30-04-2025	18:24:26.525	 INFO	 27512	 29556	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:24:26.531	 INFO	 27512	 29556	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:24:26.534	 INFO	 27512	 39980	LateInitialization	"Intialization..."
+30-04-2025	18:24:26.537	 INFO	 27512	 39980	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:24:26.539	 INFO	 27512	 39980	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:24:26.541	 INFO	 27512	 39980	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:24:26.542	 INFO	 27512	 39980	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:24:26.543	 INFO	 27512	 39980	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:30:26.017	 INFO	 44740	  9844	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:30:26.021	 INFO	 44740	  9844	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:30:26.022	 INFO	 44740	 43596	LateInitialization	"Intialization..."
+30-04-2025	18:30:26.024	 INFO	 44740	 43596	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:30:26.025	 INFO	 44740	 43596	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:30:26.026	 INFO	 44740	 43596	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:30:26.028	 INFO	 44740	 43596	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:30:26.030	 INFO	 44740	 43596	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:32:49.645	 INFO	 36220	 35476	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:32:49.648	 INFO	 36220	 35476	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:32:49.650	 INFO	 36220	 17908	LateInitialization	"Intialization..."
+30-04-2025	18:32:49.651	 INFO	 36220	 17908	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:32:49.653	 INFO	 36220	 17908	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:32:49.654	 INFO	 36220	 17908	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:32:49.655	 INFO	 36220	 17908	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:32:49.657	 INFO	 36220	 17908	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:39:34.795	 INFO	 45764	 44956	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:39:34.799	 INFO	 45764	 44956	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:39:34.801	 INFO	 45764	 40528	LateInitialization	"Intialization..."
+30-04-2025	18:39:34.803	 INFO	 45764	 40528	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:39:34.804	 INFO	 45764	 40528	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:39:34.806	 INFO	 45764	 40528	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:39:34.807	 INFO	 45764	 40528	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:39:34.809	 INFO	 45764	 40528	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:40:28.807	 INFO	 45068	 39596	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:40:28.810	 INFO	 45068	 39596	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:40:28.811	 INFO	 45068	 43220	LateInitialization	"Intialization..."
+30-04-2025	18:40:28.812	 INFO	 45068	 43220	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:40:28.813	 INFO	 45068	 43220	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:40:28.815	 INFO	 45068	 43220	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:40:28.816	 INFO	 45068	 43220	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:40:28.817	 INFO	 45068	 43220	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:48:10.044	 INFO	 40020	 44184	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:48:10.048	 INFO	 40020	 44184	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:48:10.049	 INFO	 40020	 30708	LateInitialization	"Intialization..."
+30-04-2025	18:48:10.050	 INFO	 40020	 30708	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:48:10.052	 INFO	 40020	 30708	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:48:10.053	 INFO	 40020	 30708	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:48:10.055	 INFO	 40020	 30708	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:48:10.056	 INFO	 40020	 30708	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:48:13.074	ERROR	 40020	 30708	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+30-04-2025	18:48:13.075	 INFO	 40020	 30708	LateInitialization	"Exe = C:\Users\aditya.verma\AppData\Local\Programs\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 31368578
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+30-04-2025	18:48:13.076	 INFO	 40020	 30708	LateInitialization	"Intialization finished"
+30-04-2025	18:50:09.975	 INFO	 13128	 45836	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:50:09.978	 INFO	 13128	 45836	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:50:09.980	 INFO	 13128	 43868	LateInitialization	"Intialization..."
+30-04-2025	18:50:09.981	 INFO	 13128	 43868	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:50:09.982	 INFO	 13128	 43868	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:50:09.983	 INFO	 13128	 43868	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:50:09.985	 INFO	 13128	 43868	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:50:09.986	 INFO	 13128	 43868	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:52:25.846	 INFO	 42140	 46024	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:52:25.851	 INFO	 42140	 46024	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:52:25.853	 INFO	 42140	 29744	LateInitialization	"Intialization..."
+30-04-2025	18:52:25.854	 INFO	 42140	 29744	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:52:25.855	 INFO	 42140	 29744	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:52:25.857	 INFO	 42140	 29744	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:52:25.858	 INFO	 42140	 29744	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:52:25.860	 INFO	 42140	 29744	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:55:20.063	 INFO	 39320	 42068	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:55:20.067	 INFO	 39320	 42068	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:55:20.068	 INFO	 39320	 44372	LateInitialization	"Intialization..."
+30-04-2025	18:55:20.070	 INFO	 39320	 44372	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:55:20.071	 INFO	 39320	 44372	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:55:20.072	 INFO	 39320	 44372	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:55:20.073	 INFO	 39320	 44372	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:55:20.074	 INFO	 39320	 44372	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	18:58:04.867	 INFO	 39528	 34664	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	18:58:04.870	 INFO	 39528	 34664	DllMain	"PROCESS ATTACHED"
+30-04-2025	18:58:04.872	 INFO	 39528	 31936	LateInitialization	"Intialization..."
+30-04-2025	18:58:04.873	 INFO	 39528	 31936	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	18:58:04.874	 INFO	 39528	 31936	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	18:58:04.876	 INFO	 39528	 31936	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	18:58:04.877	 INFO	 39528	 31936	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	18:58:04.878	 INFO	 39528	 31936	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	22:53:51.079	 INFO	 41192	 46152	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	22:53:51.087	 INFO	 41192	 46152	DllMain	"PROCESS ATTACHED"
+30-04-2025	22:53:51.089	 INFO	 41192	 28564	LateInitialization	"Intialization..."
+30-04-2025	22:53:51.091	 INFO	 41192	 28564	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	22:53:51.094	 INFO	 41192	 28564	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	22:53:51.096	 INFO	 41192	 28564	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	22:53:51.098	 INFO	 41192	 28564	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	22:53:51.099	 INFO	 41192	 28564	LoadDisplayDevicesName	"\\.\DISPLAY4"
+30-04-2025	23:29:24.866	 INFO	 43620	 50376	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+30-04-2025	23:29:24.871	 INFO	 43620	 50376	DllMain	"PROCESS ATTACHED"
+30-04-2025	23:29:24.873	 INFO	 43620	 42272	LateInitialization	"Intialization..."
+30-04-2025	23:29:24.874	 INFO	 43620	 42272	LoadDisplayDevicesName	"DisplayDevices : "
+30-04-2025	23:29:24.875	 INFO	 43620	 42272	LoadDisplayDevicesName	"\\.\DISPLAY1"
+30-04-2025	23:29:24.877	 INFO	 43620	 42272	LoadDisplayDevicesName	"\\.\DISPLAY2"
+30-04-2025	23:29:24.878	 INFO	 43620	 42272	LoadDisplayDevicesName	"\\.\DISPLAY3"
+30-04-2025	23:29:24.879	 INFO	 43620	 42272	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	12:32:43.915	 INFO	 20064	  3624	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	12:32:43.929	 INFO	 20064	  3624	DllMain	"PROCESS ATTACHED"
+01-05-2025	12:32:43.940	 INFO	 20064	  2780	LateInitialization	"Intialization..."
+01-05-2025	12:32:43.949	 INFO	 20064	  2780	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	12:32:43.956	 INFO	 20064	  2780	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	12:32:43.963	 INFO	 20064	  2780	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	12:32:43.971	 INFO	 20064	  2780	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	12:32:43.978	 INFO	 20064	  2780	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	12:32:46.998	ERROR	 20064	  2780	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+01-05-2025	12:32:47.001	 INFO	 20064	  2780	LateInitialization	"Exe = C:\Users\aditya.verma\AppData\Local\Programs\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 3285750
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+01-05-2025	12:32:47.005	 INFO	 20064	  2780	LateInitialization	"Intialization finished"
+01-05-2025	12:34:25.946	 INFO	  2908	 14756	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	12:34:25.964	 INFO	  2908	 14756	DllMain	"PROCESS ATTACHED"
+01-05-2025	12:34:25.972	 INFO	  2908	 13744	LateInitialization	"Intialization..."
+01-05-2025	12:34:25.978	 INFO	  2908	 13744	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	12:34:25.987	 INFO	  2908	 13744	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	12:34:25.992	 INFO	  2908	 13744	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	12:34:25.997	 INFO	  2908	 13744	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	12:34:26.004	 INFO	  2908	 13744	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	12:43:06.430	 INFO	 10656	  6452	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	12:43:06.435	 INFO	 10656	  6452	DllMain	"PROCESS ATTACHED"
+01-05-2025	12:43:06.437	 INFO	 10656	 25388	LateInitialization	"Intialization..."
+01-05-2025	12:43:06.439	 INFO	 10656	 25388	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	12:43:06.440	 INFO	 10656	 25388	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	12:43:06.443	 INFO	 10656	 25388	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	12:43:06.445	 INFO	 10656	 25388	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	12:43:06.447	 INFO	 10656	 25388	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	13:00:53.905	 INFO	 25156	 21160	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	13:00:53.910	 INFO	 25156	 21160	DllMain	"PROCESS ATTACHED"
+01-05-2025	13:00:53.912	 INFO	 25156	 14100	LateInitialization	"Intialization..."
+01-05-2025	13:00:53.913	 INFO	 25156	 14100	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	13:00:53.914	 INFO	 25156	 14100	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	13:00:53.916	 INFO	 25156	 14100	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	13:00:53.917	 INFO	 25156	 14100	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	13:00:53.918	 INFO	 25156	 14100	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	13:08:37.011	 INFO	 25612	 13448	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	13:08:37.015	 INFO	 25612	 13448	DllMain	"PROCESS ATTACHED"
+01-05-2025	13:08:37.017	 INFO	 25612	 26716	LateInitialization	"Intialization..."
+01-05-2025	13:08:37.018	 INFO	 25612	 26716	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	13:08:37.020	 INFO	 25612	 26716	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	13:08:37.022	 INFO	 25612	 26716	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	13:08:37.023	 INFO	 25612	 26716	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	13:08:37.024	 INFO	 25612	 26716	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	13:15:27.397	 INFO	 24952	 21332	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	13:15:27.400	 INFO	 24952	 21332	DllMain	"PROCESS ATTACHED"
+01-05-2025	13:15:27.402	 INFO	 24952	 27224	LateInitialization	"Intialization..."
+01-05-2025	13:15:27.403	 INFO	 24952	 27224	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	13:15:27.405	 INFO	 24952	 27224	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	13:15:27.406	 INFO	 24952	 27224	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	13:15:27.407	 INFO	 24952	 27224	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	13:15:27.408	 INFO	 24952	 27224	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	13:29:10.767	 INFO	 28424	 27256	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	13:29:10.773	 INFO	 28424	 27256	DllMain	"PROCESS ATTACHED"
+01-05-2025	13:29:10.775	 INFO	 28424	 25032	LateInitialization	"Intialization..."
+01-05-2025	13:29:10.776	 INFO	 28424	 25032	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	13:29:10.778	 INFO	 28424	 25032	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	13:29:10.782	 INFO	 28424	 25032	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	13:29:10.784	 INFO	 28424	 25032	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	13:29:10.786	 INFO	 28424	 25032	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	13:42:11.767	 INFO	  7352	 27512	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	13:42:11.802	 INFO	  7352	 27512	DllMain	"PROCESS ATTACHED"
+01-05-2025	13:42:11.812	 INFO	  7352	 22772	LateInitialization	"Intialization..."
+01-05-2025	13:42:11.820	 INFO	  7352	 22772	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	13:42:11.831	 INFO	  7352	 22772	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	13:42:11.847	 INFO	  7352	 22772	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	13:42:11.858	 INFO	  7352	 22772	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	13:42:11.867	 INFO	  7352	 22772	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	13:42:14.930	ERROR	  7352	 22772	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+01-05-2025	13:42:14.940	 INFO	  7352	 22772	LateInitialization	"Exe = C:\Users\aditya.verma\AppData\Local\Programs\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 7453671
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+01-05-2025	13:42:14.957	 INFO	  7352	 22772	LateInitialization	"Intialization finished"
+01-05-2025	13:44:10.046	 INFO	 24904	 24624	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	13:44:10.050	 INFO	 24904	 24624	DllMain	"PROCESS ATTACHED"
+01-05-2025	13:44:10.051	 INFO	 24904	 22564	LateInitialization	"Intialization..."
+01-05-2025	13:44:10.052	 INFO	 24904	 22564	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	13:44:10.054	 INFO	 24904	 22564	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	13:44:10.056	 INFO	 24904	 22564	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	13:44:10.057	 INFO	 24904	 22564	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	13:44:10.058	 INFO	 24904	 22564	LoadDisplayDevicesName	"\\.\DISPLAY4"
+01-05-2025	14:04:34.635	 INFO	 12624	  9528	DllMain	"DLL_PROCESS_ATTACH Mon Mar 24 13:43:10 2025 11.4.2500.21"
+01-05-2025	14:04:34.642	 INFO	 12624	  9528	DllMain	"PROCESS ATTACHED"
+01-05-2025	14:04:34.644	 INFO	 12624	  4628	LateInitialization	"Intialization..."
+01-05-2025	14:04:34.646	 INFO	 12624	  4628	LoadDisplayDevicesName	"DisplayDevices : "
+01-05-2025	14:04:34.649	 INFO	 12624	  4628	LoadDisplayDevicesName	"\\.\DISPLAY1"
+01-05-2025	14:04:34.654	 INFO	 12624	  4628	LoadDisplayDevicesName	"\\.\DISPLAY2"
+01-05-2025	14:04:34.655	 INFO	 12624	  4628	LoadDisplayDevicesName	"\\.\DISPLAY3"
+01-05-2025	14:04:34.658	 INFO	 12624	  4628	LoadDisplayDevicesName	"\\.\DISPLAY4"
